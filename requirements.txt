@@ -1,0 +1,7 @@
+streamlit
+ccxt
+pandas
+pyTelegramBotAPI
+requests
+urllib3
+python-dotenv
